@@ -1,0 +1,46 @@
+.geral{
+	width:1200px;
+	margin-left:-10px;
+	position: fixed;
+	height:550px;
+	font-family:Verdana;
+}
+
+body{
+	background-color:#1C1C1C;
+}
+
+.margin {
+    margin: 20px 20px 20px 20px;
+}
+
+#imagem {
+    height: 600px; 
+    width: 500px; 
+    border: 1px solid black; 
+    float: left; 
+    border-radius: 10px 10px 10px 10px;
+}
+
+.descricao {
+    color: white;
+    width: 650px;
+    height: 600px;
+    margin-right: -80px;
+    float: right;
+    text-align: left;
+}
+
+.titulo {
+    font-size: 36px;
+    text-align: center;
+}
+
+.desctit {
+    font-size: 24px;
+    text-align: center;
+}
+
+.preco {
+    text-align: right;
+}
